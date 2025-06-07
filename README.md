@@ -24,18 +24,14 @@ Este repositorio contiene mis evaluaciones y materiales relacionados con el ramo
 
 ```plaintext
 /
-├── evaluacion2/
-│   ├── enunciado_evaluacion2.pdf
-│   └── script_evaluacion2.sql
-├── evaluacion3/
-│   ├── enunciado_evaluacion3.pdf
-│   └── script_evaluacion3.sql
-├── examen_final/
-│   ├── enunciado_examen_final.pdf
-│   └── script_examen_final.sql
-└── ejercicios_practica/
-    ├── ejercicios_practica.pdf
-    └── script_ejercicios_practica.sql
+├── Prueba2/
+├── Prueba3/
+├── Examen/
+└── Ejercitación/
+    ├── Ejercicio 1
+    ├── Ejercicio 3
+    ├── Ejercicio 4
+    └── Ejercicio 5
 ```
 
 ## Uso
